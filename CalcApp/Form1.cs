@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace WinFormsApp2
+namespace CalcApp
 {
     public partial class Form1 : Form
     {

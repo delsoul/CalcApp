@@ -1,5 +1,5 @@
 ﻿
-namespace WinFormsApp2
+namespace CalcApp
 {
     partial class Form1
     {
@@ -220,7 +220,7 @@ namespace WinFormsApp2
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Калькулятор";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
